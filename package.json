@@ -1,0 +1,23 @@
+{
+  "name": "split_landing_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srs0447/split_landing_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srs0447/split_landing_page/issues"
+  },
+  "homepage": "https://github.com/srs0447/split_landing_page",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
